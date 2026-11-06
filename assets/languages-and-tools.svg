@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="732" height="36" viewBox="0 0 732 36" role="img" aria-labelledby="title desc">
+  <title id="title">Languages and tools</title>
+  <desc id="desc">Python, R, Java, SQL, pandas, NumPy, and scikit-learn.</desc>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <rect x="2" y="2" width="104" height="32" rx="6" fill="#3776ab"/><text x="54" y="23" fill="#fff">Python</text>
+    <rect x="112" y="2" width="60" height="32" rx="6" fill="#276dc3"/><text x="142" y="23" fill="#fff">R</text>
+    <rect x="178" y="2" width="84" height="32" rx="6" fill="#9c5715"/><text x="220" y="23" fill="#fff">Java</text>
+    <rect x="268" y="2" width="76" height="32" rx="6" fill="#336791"/><text x="306" y="23" fill="#fff">SQL</text>
+    <rect x="350" y="2" width="104" height="32" rx="6" fill="#150458"/><text x="402" y="23" fill="#fff">pandas</text>
+    <rect x="460" y="2" width="108" height="32" rx="6" fill="#013243"/><text x="514" y="23" fill="#fff">NumPy</text>
+    <rect x="574" y="2" width="156" height="32" rx="6" fill="#f7931e"/><text x="652" y="23" fill="#33210b">scikit-learn</text>
+  </g>
+</svg>
