@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="844" height="132" viewBox="0 0 844 132" role="img" aria-labelledby="title desc">
+  <title id="title">Applied Mathematics, Data Science, Machine Learning, and Engineering</title>
+  <desc id="desc">Four colored cards with a math symbol, bar chart, connected nodes, and a circuit chip.</desc>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" text-anchor="middle">
+    <g transform="translate(4 4)">
+      <rect width="198" height="124" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
+      <path d="M115 29H83L103 49L83 69H115" fill="none" stroke="#2563eb" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+      <text x="99" y="101" fill="#1e3a8a">Applied Mathematics</text>
+    </g>
+    <g transform="translate(216 4)">
+      <rect width="198" height="124" rx="14" fill="#ecfdf5" stroke="#a7f3d0"/>
+      <path d="M75 72H123" fill="none" stroke="#047857" stroke-width="3" stroke-linecap="round"/>
+      <rect x="79" y="53" width="10" height="15" rx="2" fill="#10b981"/>
+      <rect x="95" y="40" width="10" height="28" rx="2" fill="#059669"/>
+      <rect x="111" y="27" width="10" height="41" rx="2" fill="#047857"/>
+      <text x="99" y="101" fill="#065f46">Data Science</text>
+    </g>
+    <g transform="translate(428 4)">
+      <rect width="198" height="124" rx="14" fill="#f5f3ff" stroke="#ddd6fe"/>
+      <g stroke="#8b5cf6" stroke-width="2.5">
+        <path d="M77 31L99 48L77 69M77 31L121 31L99 48L121 69L77 69M99 48V76" fill="none"/>
+        <g fill="#7c3aed" stroke="#f5f3ff" stroke-width="2">
+          <circle cx="77" cy="31" r="6"/><circle cx="121" cy="31" r="6"/><circle cx="99" cy="48" r="7"/><circle cx="77" cy="69" r="6"/><circle cx="121" cy="69" r="6"/>
+        </g>
+      </g>
+      <text x="99" y="101" fill="#5b21b6">Machine Learning</text>
+    </g>
+    <g transform="translate(640 4)">
+      <rect width="198" height="124" rx="14" fill="#fff7ed" stroke="#fed7aa"/>
+      <g fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round">
+        <rect x="81" y="31" width="36" height="36" rx="5"/>
+        <rect x="91" y="41" width="16" height="16" rx="2"/>
+        <path d="M89 23V31M99 23V31M109 23V31M89 67V75M99 67V75M109 67V75M73 39H81M73 49H81M73 59H81M117 39H125M117 49H125M117 59H125"/>
+      </g>
+      <text x="99" y="101" fill="#9a3412">Engineering</text>
+    </g>
+  </g>
+</svg>
