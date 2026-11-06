@@ -4,7 +4,7 @@ I'm an applied mathematics student at Emory with an interest in data science, ma
 
 ## Selected projects
 
-- **[Diabetes prediction](https://github.com/AlecAnghel/diabetes-prediction-project)**: Diabetes risk classification and model evaluation with Python and scikit-learn.
+- **[Diabetes classification](https://github.com/AlecAnghel/diabetes-prediction-project)**: An educational project classifying recorded diabetes outcomes and evaluating models with Python and scikit-learn.
 - **[Formula 1 statistical analysis](https://github.com/AlecAnghel/F1_Statistical-Analysis_GroupProject)**: A group project exploring Formula 1 data through statistical analysis.
 - **[Student performance and lifestyle](https://github.com/AlecAnghel/r-health_lifestyle_computing_project)**: An R project exploring student performance and lifestyle data.
 
